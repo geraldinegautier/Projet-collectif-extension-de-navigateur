@@ -1,0 +1,28 @@
+{
+  "name": "Dictionary",
+  "version": "1.0.0",
+  "description": "Extension providing its users with a definition of a selected word",
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 3,
+  "author": "Géraldine, Manon, Marjo and Mayté",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "tao16.png",
+      "48": "tao48.png",
+      "128": "tao128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "script.js"
+      ]
+    }
+  ]
+}
