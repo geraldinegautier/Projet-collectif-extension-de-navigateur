@@ -29,8 +29,6 @@ Ce projet a pour objectif de développer une extension pour le navigateur de vot
 - [Miro](https://miro.com/) pour partager facilement et s’organiser en équipes
 - Outil de conférence pour partager son écran
 
-Pour partager votre projet en équipe, utilisez le répertoire Github mis à disposition par les encadrants·es.
-
 ## **Présentation**
 
 ![Capture d'écran 2024-05-25 191425](https://github.com/geraldinegautier/Projet-collectif-extension-de-navigateur/assets/158101084/e82f9abf-79c5-4831-b495-c34b270fc579)
